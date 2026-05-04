@@ -1,4 +1,2 @@
 Good Morning Users
 All glitters are not Gold!!!
-Hello from main branch
-Hello from Feature branch
